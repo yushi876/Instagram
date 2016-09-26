@@ -7,7 +7,10 @@
 //
 
 import UIKit
+import ESTabBarController
 import Firebase
+import FirebaseAuth
+import SVProgressHUD
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
